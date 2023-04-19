@@ -1,6 +1,3 @@
-# LiquidCrystal_I2C
+# LiquidCrystal_I2C_ESP32
 
-LiquidCrystal Arduino library for I2C LCD displays
-
-**Status: Archived** 
-This repository has been transfered to GitLab at https://gitlab.com/tandembyte/LCD_I2C
+LiquidCrystal I2C Arduino library, with added method for rewiring SCL and SDA on ESP32 
