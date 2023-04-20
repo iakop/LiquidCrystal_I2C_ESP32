@@ -114,6 +114,7 @@ void draw_vertical_graph(uint8_t row, uint8_t column, uint8_t len,	uint8_t pixel
 
 private:
 	void init_priv();
+	void init_priv(uint8_t sda, uint8_t scl);
 	void send(uint8_t, uint8_t);
 	void write4bits(uint8_t);
 	void expanderWrite(uint8_t);
